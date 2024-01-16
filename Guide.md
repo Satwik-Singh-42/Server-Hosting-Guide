@@ -1,4 +1,3 @@
-Tutorial: https://www.youtube.com/watch?v=Li6gdsXNe-o
 # command for panel setup
  
 mkdir pterodactyl
