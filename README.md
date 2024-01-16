@@ -1,6 +1,6 @@
 # Server-Hosting-Guide
 This is a guide with help of which you can create a free server hosting on github as well as gitpod. The server hosting will be installed with pterodactyl panel.
-# For any help dm "soulgrandmc" on discord
+# For any help dm "soulgrandmc" on discord or use issue tab of this repository
 # command for panel setup
  
 mkdir pterodactyl
@@ -240,3 +240,4 @@ for hosting panel:
 for hosting wings:
   start codespace and type the start a tunnel code with 443 at end instead of 80
   
+# I hope it helps you
